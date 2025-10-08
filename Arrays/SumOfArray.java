@@ -12,6 +12,7 @@ public class SumOfArray {
         }
 
         int sum = 0;
+    
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > Integer.MIN_VALUE) {
                 sum = sum + arr[i];
