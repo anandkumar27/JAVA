@@ -13,7 +13,6 @@ public class Diamond {
             for(int j=1; j<=nst; j++){
                 System.out.print("*"+" ");
             }
-            nsp = 
             System.out.println();
         }
     }
